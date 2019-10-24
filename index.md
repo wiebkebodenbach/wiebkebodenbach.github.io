@@ -1,26 +1,16 @@
 # Unternehmensrelevante Unterstützungsmöglichkeiten zur Prävention von Burnout
 
+# ![Modell](2)
 
-# ![Hai](01.jpg)
+Fühlen Sie sich oft erschöpft, ausgebrannt und müde? Überforderung und Frustration am Arbeitsplatz sind bei Ihnen Dauerzustände? Dann könnten Sie, wie immer mehr Berufstätige, Gefahr laufen an Burnout zu erkranken. Seit Jahren steigen die Zahlen der Burnout Fälle in Deutschland, so meldete die AOK im Jahr 2017 durchschnittlich 5,5 Arbeitsunfähigkeitsfälle je 1.000 Mitglieder aufgrund einer Burnout Diagnose. Dies entspricht beinahe einer Verdreifachung der Diagnosehäufigkeit innerhalb des letzten Jahrzehnts.Laut Hochrechnungen der AOK ergeben sich daraus über alle gesetzlich Krankenversicherten hinweg rund 166.000 Burnout Betroffene und damit 3.7 Millionen Krankheitstage im Jahr 2017 (Statista, 2019).
 
-
-Dolore occaecat tempor dolor in pariatur dolor sit amet dolore enim.Nisi amet ut fugiat irure. Sunt tempor irure cillum pariatur pariatur aute officia irure commodo dolore. Exercitation id quis anim dolor. Exercitation tempor dolore laborum minim incididunt irure amet eu commodo eu ex labore aliqua sint. Anim proident incididunt nulla ullamco amet sint proident ex velit proident consectetur occaecat.
-
-Eiusmod labore irure tempor aliqua non amet mollit tempor est sit esse. Et minim ea aliqua magna ad qui sint anim ea aliquip dolore enim nulla do. Occaecat id consectetur irure aliquip aute reprehenderit elit. Nulla nisi deserunt proident reprehenderit aliquip laborum.
-
-Amet pariatur cillum id quis aliqua fugiat anim nostrud non. Dolor excepteur velit officia ipsum cillum mollit non commodo deserunt irure duis culpa qui. Consequat aute sit esse pariatur cillum consequat enim laborum officia ullamco laborum duis duis. Esse non ex ad est ad sit.
-
-Eu magna laboris velit Lorem duis nisi velit ad mollit excepteur minim pariatur. Esse ea proident aliquip occaecat. Eu mollit est ad veniam ullamco nulla eu. Proident ex officia proident deserunt aliquip amet Lorem dolore tempor enim minim exercitation eiusmod irure. Laboris duis eiusmod occaecat fugiat est nostrud proident id esse velit enim.
-
-Consectetur ea nisi elit consequat sit. Commodo incididunt nulla consectetur culpa. Ad aliqua laboris esse veniam qui. Exercitation do ad in eu ullamco ullamco velit exercitation eu nulla eiusmod quis minim. Ut voluptate adipisicing veniam nulla. Minim mollit irure exercitation exercitation veniam duis.
-
-
+Was ist Burnout?
+Burnout bezeichnet ein psychologisches Syndrom, welches durch die drei Hauptkriterien Emotionale Erschöpfung, Depersonalisation und reduzierte Leistungsfähigkeit gekennzeichnet ist (Maslach & Leiter, 2001).
 
 [Fische](blog/fische.md)
 
+## Referenzen
 
-
-## Referenzen 
 [Mein bester Professor](https://ulrich-anders.eu)
 
 [Gefährung und Schutz der Haie](https://www.bfn.de/fileadmin/BfN/service/Dokumente/skripten/Skript450.pdf)
